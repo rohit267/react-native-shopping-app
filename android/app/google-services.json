@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995954344363",
+    "project_id": "react-native-shopping-7285f",
+    "storage_bucket": "react-native-shopping-7285f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995954344363:android:fb345e8470cc79610fd2ee",
+        "android_client_info": {
+          "package_name": "com.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995954344363-tnpfd5585s1s3a9vnithuf6l6e2cs7da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmsyeFahqxpH8L1iuTmFUdlpRUoiZaCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995954344363-tnpfd5585s1s3a9vnithuf6l6e2cs7da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
